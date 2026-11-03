@@ -1,0 +1,7 @@
+sales_analysis.exe
+sales.csv
+daily_by_sku.csv
+build/
+dist/
+__pycache__/
+*.spec
