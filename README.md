@@ -5,6 +5,7 @@
 ## Запуск
 
 ### Готовое приложение
+> link: `https://github.com/HiterihaWa/sales_analysis/releases/download/v1.0.0/sales_analysis.exe`
 
 1. Запустить `sales_analysis.exe`.
 2. Указать путь к папке с исходным CSV-файлом. Путь можно скопировать из адресной строки Проводника.
